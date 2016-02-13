@@ -1,0 +1,117 @@
+body {
+   width: 500px;
+   margin: 0 auto;
+}
+h1 {
+   font-family: verdana;
+   font-size: 20px;
+}
+
+header a {
+   font-family: verdana;
+   text-decoration: none;
+   font-size: 10px;
+   color: #757575;
+   padding: 0 4px 0 4px;
+}
+header a + a {
+   border-left: solid #757575 1px;
+   padding-left: 4px;
+}
+header h1 {
+   float: left;
+}
+header nav {
+   float: right;
+}
+header {
+   clear: both;
+}
+p {
+   background-color: #C1FFFB;
+   color: #757575;
+   padding: 10px;
+   font-family: verdana;
+   font-size: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+
+
+
+.first {
+   width: 80px;
+   float: left;
+   clear: left;
+   margin-right: 10px;
+}
+.second {
+   float: left;
+   width: 370px;
+   margin-bottom: 0;
+
+}
+.third {
+   width: 250px;
+   float: left;
+   margin-bottom: 0;
+
+}
+.fourth {
+   width: 90px;
+   float: left;
+   margin-left: 10px;
+   margin-bottom: 0;
+}
+.fifth {
+   width: 70px;
+   float: left;
+}
+.sixth {
+   width: 70px;
+   float: left;
+   margin-left: 10px;
+}
+.seventh {
+   width: 70px;
+   float: left;
+   margin-left: 10px;
+}
+.eighth {
+   width: 70px;
+   float: left;
+   margin-left: 10px;
+}
+.ninth {
+   clear: both;
+}
+
+
+
+
+footer {
+   clear: both;
+}
+h3 {
+   font-family: verdana;
+   font-size: 15px;
+   margin: 30px 0 10px 0;
+   text-align: right;
+}
+ footer nav {
+   text-decoration: none;
+   font-family: verdana;
+   font-size: 12px;
+   margin: 0 auto;
+   display: flex;
+   justify-content: center;
+}
+footer a {
+   text-decoration: none;
+   color: #757575;
+   padding: 0 3px 0 3px;
+}
+footer a + a {
+   border-left: solid #757575 1px;
+
+}

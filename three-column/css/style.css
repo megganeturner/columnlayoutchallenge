@@ -1,0 +1,60 @@
+body {
+	width: 500px;
+	margin: 0 auto;
+}
+h1 {
+	font-family: verdana;
+	font-size: 20px;
+}
+p {
+	background-color: #C1FFFB;
+	color: #757575;
+	padding: 10px;
+	font-family: verdana;
+	font-size: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.first {
+	margin-bottom: 0;
+}
+.second {
+	width: 50px;
+	float: left;
+}
+.third {
+	width: 320px;
+	margin-left: 10px;
+	margin-right: 10px;
+	float: left;
+}
+.fourth {
+	width: 50px;
+	float: right;
+}
+.fifth {
+	clear: both;
+}
+h3 {
+	font-family: verdana;
+	font-size: 15px;
+	margin: 30px 0 10px 0;
+	text-align: right;
+}
+nav {
+	text-decoration: none;
+	font-family: verdana;
+	font-size: 12px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+}
+a {
+	text-decoration: none;
+	color: #757575;
+	padding: 0 3px 0 3px;
+}
+a + a {
+	border-left: solid #757575 1px;
+
+}
